@@ -58,3 +58,4 @@ V
  Логи:      journalctl -u fuelapp -f
 ============================================================
 
+<img width="1759" height="1658" alt="image" src="https://github.com/user-attachments/assets/f3bffdc9-a6fd-432f-ae6c-a6cd5743851a" />
