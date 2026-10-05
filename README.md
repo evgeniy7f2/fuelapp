@@ -28,8 +28,7 @@ cd /opt && mkdir fuelapp_install && cd fuelapp_install
 Далее: Создание приложения - Шаблоны интерфейса - Настройка конфигурации - Systemd - Проверит запуск и запустит приложение по IP ПК.
 
 
-
- Адрес: http://<IP вашего пк>:<port>
+http://<IP вашего пк>:<port>
 
  Логин:  admin
  Пароль: admin
