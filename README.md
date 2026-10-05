@@ -62,4 +62,6 @@ V
 <img width="1816" height="1372" alt="image" src="https://github.com/user-attachments/assets/68502d68-4c8d-4302-9e9a-f2adbf6e91c5" />
 <img width="1767" height="1671" alt="image" src="https://github.com/user-attachments/assets/b2a24a09-a9f9-4083-91cc-575752d71532" />
 
-
+💖 Поддержать разработку
+💳 Карты РФ / СБП / Tinkoff Pay:
+👉https://pay.cloudtips.ru/p/c57e8211
