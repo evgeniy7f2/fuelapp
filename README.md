@@ -57,3 +57,4 @@ V
  Перезапуск: sudo systemctl restart fuelapp
  Логи:      journalctl -u fuelapp -f
 ============================================================
+![Uploading image.png…]()
